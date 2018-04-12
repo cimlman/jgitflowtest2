@@ -5,7 +5,7 @@
     <groupId>cz.jaroslavciml</groupId>
     <artifactId>jgitflowtest2</artifactId>
     <packaging>jar</packaging>
-    <version>18.04.1</version>
+    <version>18.05-SNAPSHOT</version>
     <name>PoC JGit-Glow</name>
 
     <properties>
