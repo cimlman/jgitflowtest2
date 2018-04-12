@@ -25,6 +25,7 @@
                     <allowUntracked>true</allowUntracked>
                     <alwaysUpdateOrigin>true</alwaysUpdateOrigin>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
+                    <pushFeatures>true</pushFeatures>
                     <pushReleases>true</pushReleases>
                     <squash>true</squash>
                     <suppressFastForward>true</suppressFastForward>
