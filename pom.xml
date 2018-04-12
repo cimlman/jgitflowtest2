@@ -27,6 +27,7 @@
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <pushReleases>true</pushReleases>
                     <squash>true</squash>
+                    <suppressFastForward>true</suppressFastForward>
                     <goals>clean install</goals>
                 </configuration>
             </plugin>
